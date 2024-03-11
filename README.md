@@ -13,6 +13,7 @@ Fico feliz em tê-lo(a) no meu perfil do GitHub!
   <img align="center" alt="Luana-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Luana-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
   <img align="center" alt="Luana-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Luana-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
 </div>
   
   ## Redes Sociais
