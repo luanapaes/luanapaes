@@ -1,8 +1,8 @@
-# Olá, eu sou a Luana Paes! 👋
+# Olá, me chamo Luana Paes! 👋
 
-Fico feliz em tê-lo(a) no meu perfil do GitHub!
+Fico feliz com sua visita em perfil do GitHub!
 
-🎓 Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente cursando o 5º período. Constantemente envolvida em projetos para solidificar meus conhecimentos, estou em busca constante de aprimoramento.
+🎓 Sou formada em Análise e Desenvolvimento de Sistemas pela Unit. Constantemente envolvida em projetos para solidificar e aprimorar meus conhecimentos, estou sempre em busca de novos aprendizados e evolução profissional.
 
 ✨ Vamos juntos na jornada do desenvolvimento!
 
