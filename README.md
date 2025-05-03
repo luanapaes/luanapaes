@@ -2,8 +2,8 @@
 
 Fico feliz com sua visita ao perfil do GitHub! 🤩
 
-🎓 Sou formada em Análise e Desenvolvimento de Sistemas pela Unit. Constantemente envolvida em projetos para solidificar e aprimorar meus conhecimentos, estou sempre em busca de novos aprendizados e evolução profissional.
-
+🎓 Sou formada em Análise e Desenvolvimento de Sistemas pela Unit e atualmente curso Gestão da Informação na Universidade Federal de Pernambuco (UFPE).
+💻 Tenho me dedicado continuamente a projetos práticos, buscando consolidar meus conhecimentos, explorar novas tecnologias e evoluir profissionalmente.
 ✨ Vamos juntos na jornada do desenvolvimento!
 
 <div style="display: inline_block"><br>
