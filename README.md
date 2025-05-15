@@ -15,7 +15,7 @@ Fico feliz com sua visita ao perfil do GitHub! 🤩
   <img align="center" alt="Luana-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Luana-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
   <img align="center" alt="Luana-Nest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Luana-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Luana-MySQL" height="30" width="40" src="https://www.svgrepo.com/show/354099/mysql.svg">
 </div>
   
   ## Redes Sociais
