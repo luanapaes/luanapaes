@@ -9,7 +9,7 @@ Fico feliz com sua visita ao perfil do GitHub! 🤩
 ✨ Vamos juntos na jornada do desenvolvimento!
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Luana-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luana-HTML" height="30" width="40" src="https://prosimples.com/wp-content/uploads/2024/01/html.png">
   <img align="center" alt="Luana-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luana-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Luana-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
