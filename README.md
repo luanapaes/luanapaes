@@ -11,10 +11,10 @@ Fico feliz com sua visita ao perfil do GitHub! 🤩
 <div style="display: inline_block"><br>
   <img align="center" alt="Luana-HTML" height="30" width="40" src="https://www.svgrepo.com/show/373669/html.svg">
   <img align="center" alt="Luana-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luana-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Luana-Js" height="30" width="40" src="https://www.svgrepo.com/show/303206/javascript-logo.svg">
   <img align="center" alt="Luana-Ts" height="30" width="40" src="https://www.svgrepo.com/show/374144/typescript.svg">
-  <img align="center" alt="Luana-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
-  <img align="center" alt="Luana-Nest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="Luana-Angular" height="30" width="40" src="https://www.svgrepo.com/show/452156/angular.svg">
+  <img align="center" alt="Luana-Nest" height="30" width="40" src="https://www.svgrepo.com/show/373872/nestjs.svg">
   <img align="center" alt="Luana-MySQL" height="30" width="40" src="https://www.svgrepo.com/show/354099/mysql.svg">
 </div>
   
