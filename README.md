@@ -2,7 +2,7 @@
 
 Fico muito feliz com sua visita ao meu GitHub! 😊
 
-🎓 Sou formada em Análise e Desenvolvimento de Sistemas e atualmente curso Gestão da Informação na Universidade Federal de Pernambuco (UFPE).
+🎓 Sou formada em Análise e Desenvolvimento de Sistemas e atualmente curso Gestão da Informação na Universidade Federal de Pernambuco (UFPE).<br>
 💻 Tenho construído minha carreira como desenvolvedora, sempre buscando aprender, praticar e transformar ideias em soluções reais.
 
 Gosto de explorar novas tecnologias, estudar boas práticas e trabalhar em projetos que me desafiem a evoluir tanto tecnicamente quanto pessoalmente. Acredito no aprendizado contínuo, na curiosidade e na colaboração como pilares do desenvolvimento.
